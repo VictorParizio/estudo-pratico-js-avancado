@@ -4,8 +4,6 @@ let pessoas = [
     { nome: 'Raphael', idade: 27 }
 ]
 
-
-
 // let pessoasComIdadeDe33Anos = []
 
 // for (let i = 0; i < pessoas.length; i++) {
